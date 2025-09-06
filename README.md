@@ -56,6 +56,9 @@ The notebook will guide you through:
 
 This project leverages the [Letta framework](https://docs.letta.dev/) for building and orchestrating AI agents. The Letta framework simplifies the development of multi-agent systems by providing tools for agent creation, memory management, and tool integration.
 
-## Contributing
+## Next Tasks
+
+Now that you build an AI agent with a persistent memory using Letta, you can extend this application to use MCP architecture
+
 
 Feel free to fork this repository, make improvements, and submit pull requests.

@@ -1,6 +1,6 @@
 # Recruiter AI Agent using Letta Framework
 
-This project demonstrates how to build a multi-agent AI recruiter using the Letta framework. The primary example is provided in the `Recruiter_AI_Agent.ipynb` Jupyter Notebook.
+This project demonstrates how to build a multi-agent AI recruiter using the popular Letta framework. The primary example is provided in the `Recruiter_AI_Agent.ipynb` Jupyter Notebook.
 
 ## Project Structure
 
